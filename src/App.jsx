@@ -18,7 +18,11 @@ import {
   Scan,
   AlertCircle
 } from 'lucide-react';
+// --- External Payment & Upload Links ---
+// Replace these with your real payment and upload form links.
 
+const STRIPE_PAYMENT_LINK = "https://buy.stripe.com/00w6oIb5I8T7fZJdzO9Ve01"; 
+const FORM_UPLOAD_LINK = "https://YOUR_FORM_LINK_HERE";
 /**
  * Melanin Unity - Black-Owned Verification SaaS
  *
